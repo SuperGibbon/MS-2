@@ -21,4 +21,15 @@ body {
 
 .game-area {
     background-color: red;
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.game-card {
+    width: 23%;
+    height: 20%;
+    border: solid 1px pink;
+    position: relative;
+    margin: 1%;
 }
