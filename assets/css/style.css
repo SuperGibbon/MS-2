@@ -12,3 +12,13 @@ body {
     padding: 10px;
     width: 100%;
     background-color: rgb(3, 0, 200);
+}
+
+.game-buttons {
+    background-color: yellow;
+    height: 90vh;
+}
+
+.game-area {
+    background-color: red;
+}
