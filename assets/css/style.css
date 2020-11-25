@@ -30,8 +30,22 @@ body {
 
 .game-card {
     width: 23%;
-    height: 20%;
+    height: 30%;
     border: solid 1px pink;
     position: relative;
     margin: 1%;
+}
+
+.btn {
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 10%;  
+}
+
+.game-rules {
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: black;
+    border: solid 2px black;
 }
